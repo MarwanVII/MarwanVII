@@ -1,10 +1,11 @@
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
 <h1 align="center">Hi 👋, I'm Marwan</h1>
 <h3 align="center">A passionate software engineer from Egypt</h3>
-<div>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarwanVII)](https://github.com/anuraghazra/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marwanvii&" alt="marwanvii" /></p>
-</div>
+
 -💬 Ask me about **Problem Solving**
 -⚡ Fun fact **I hate Java**
 
