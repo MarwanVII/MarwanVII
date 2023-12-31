@@ -3,8 +3,10 @@
 <h3 align="center">A passionate software engineer from Egypt</h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarwanVII)](https://github.com/anuraghazra/github-readme-stats)
+<div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marwanvii&" alt="marwanvii" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marwanvii&label=Profile%20views&color=0e75b6&style=flat" alt="marwanvii" /> </p>
+</div>
 - 💬 Ask me about **Problem Solving**
 
 - ⚡ Fun fact **I hate Java**
