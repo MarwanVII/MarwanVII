@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marwan</h1>
 <h3 align="center">A passionate software engineer from Egypt</h3>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarwanVII)](https://github.com/anuraghazra/github-readme-stats)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marwanvii&label=Profile%20views&color=0e75b6&style=flat" alt="marwanvii" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marwanvii" alt="marwanvii" /></a> </p>
-
 - 💬 Ask me about **Problem Solving**
 
 - ⚡ Fun fact **I hate Java**
