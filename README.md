@@ -6,11 +6,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer | Competitive Programmer | Programming Instructor
 -------------------------------------------------------------------
 
-<b>Aspiring programmer passionate about coding and problem-solving.</b>
-<b>Actively participating in programming contests.</b> 
-<b>Open to collaboration and eager to contribute to exciting projects.</b>
+<b>Aspiring programmer passionate about coding and problem-solving.<br>
+Actively participating in programming contests.<br>
+Open to collaboration and eager to contribute to exciting projects.<br>
 Let's code together! 💻🚀
-
+</b>
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [marwan21-02072@student.eelu.edu.eg](mailto:marwan21-02072@student.eelu.edu.eg)
 * 🚀  I'm currently working on [Security Algorithms](https://github.com/MarwanVII/computer-security-algorithms)
