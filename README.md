@@ -6,9 +6,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer | Competitive Programmer | Programming Instructor
 -------------------------------------------------------------------
 
-Aspiring programmer passionate about coding and problem-solving. 
-Actively participating in programming contests. 
-Open to collaboration and eager to contribute to exciting projects. 
+<b>Aspiring programmer passionate about coding and problem-solving.</b>
+<b>Actively participating in programming contests.</b> 
+<b>Open to collaboration and eager to contribute to exciting projects.</b>
 Let's code together! 💻🚀
 
 * 🌍  I'm based in Egypt
